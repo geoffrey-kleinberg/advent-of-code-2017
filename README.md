@@ -4,7 +4,7 @@ My solutions to advent of code 2017!
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2017 - 10 ⭐ - Ruby
+  2017 - 12 ⭐ - Ruby
 </h1>
 <a href="12-01-17/main.rb">
   <img src=".aoc_tiles/tiles/2017/01.png" width="161px">
@@ -20,5 +20,8 @@ My solutions to advent of code 2017!
 </a>
 <a href="12-05-17/main.rb">
   <img src=".aoc_tiles/tiles/2017/05.png" width="161px">
+</a>
+<a href="12-06-17/main.rb">
+  <img src=".aoc_tiles/tiles/2017/06.png" width="161px">
 </a>
 <!-- AOC TILES END -->
