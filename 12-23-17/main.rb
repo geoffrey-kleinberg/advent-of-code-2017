@@ -66,16 +66,16 @@ end
 def part2(input)
     # h increases when b is prime
     # b goes from 105700 to 122700, increasing by 17s
-    primes = 0
+    nonPrimes = 0
     b = 57 * 100 + 100000
     while b <= 57 * 100 + 100000 + 17000
       if not isPrime(b)
-        primes += 1
+        nonPrimes += 1
       end
       b += 17
     end
-    return primes
+    return nonPrimes
 end
 
-# puts part1(data)
+puts part1(data)
 puts part2(data)
